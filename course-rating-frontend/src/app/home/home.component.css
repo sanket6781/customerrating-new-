@@ -1,0 +1,27 @@
+.banner{
+height: 100vh !important; 
+background-image: url(https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80); 
+background-size: cover; 
+background-position: center;
+}
+
+.custom-btn-filled{
+  border-radius: 30px; 
+  background-color: #9B5DE5;
+}
+.custom-btn-filled:hover {
+    border:none !important;
+    background: #fff !important;
+    color: black !important;
+  }
+.custom-btn-outlined{
+  border-radius: 30px; 
+  border:1px solid #9B5DE5;
+  }
+  
+.custom-btn-outlined:hover{
+    border: none;
+    background-color: white !important;
+    color: black !important;
+  }
+  

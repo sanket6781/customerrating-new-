@@ -1,0 +1,10 @@
+.custom-btn-filled{
+  border:1px solid #9B5DE5;
+  background: #fff;
+  color: #9B5DE5;
+}
+.custom-btn-filled:hover {
+  background-color: #9B5DE5 !important;
+  color: #fff !important;     
+}
+    
